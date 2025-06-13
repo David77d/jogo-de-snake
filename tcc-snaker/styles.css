@@ -1,0 +1,19 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+#pause {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#pause:hover {
+    background-color: #e68a00;
+}
